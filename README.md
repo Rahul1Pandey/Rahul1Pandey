@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul1pandey&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1pandey" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rahul1pandey&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1pandey" /> </p>
 
 - 🔭 I’m currently learning **MERN full stack Development**
 
